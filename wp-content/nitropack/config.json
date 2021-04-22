@@ -1,0 +1,30 @@
+{
+    "mixfood.xyz": {
+        "siteId": "SgRjBzqgMyTkFkQzlScqLujPpKpEgORb",
+        "siteSecret": "xXCCSfIxfMP0FLQxYJehvkk19IJTf1EzVYgd3SS4disRbMe2KzjKqQ2yqzc0HQeT",
+        "blogId": 1,
+        "compression": false,
+        "webhookToken": "37e107a90c9e9528a7c662673d5d1339",
+        "home_url": "https:\/\/mixfood.xyz",
+        "admin_url": "https:\/\/mixfood.xyz\/wp-admin\/",
+        "hosting": "unknown",
+        "alwaysBuffer": true,
+        "isEzoicActive": false,
+        "isNginxHelperActive": false,
+        "pluginVersion": "1.4.0"
+    },
+    "localhost:8080\/demo": {
+        "siteId": "SgRjBzqgMyTkFkQzlScqLujPpKpEgORb",
+        "siteSecret": "xXCCSfIxfMP0FLQxYJehvkk19IJTf1EzVYgd3SS4disRbMe2KzjKqQ2yqzc0HQeT",
+        "blogId": 1,
+        "compression": true,
+        "webhookToken": "37e107a90c9e9528a7c662673d5d1339",
+        "home_url": "http:\/\/localhost:8080\/demo",
+        "admin_url": "http:\/\/localhost:8080\/demo\/wp-admin\/",
+        "hosting": "unknown",
+        "alwaysBuffer": true,
+        "isEzoicActive": false,
+        "isNginxHelperActive": false,
+        "pluginVersion": "1.4.0"
+    }
+}
