@@ -7,4 +7,4 @@ Tài khoản admin là
 tk: boy
 mk: 123456
 
-Nếu có thắc mắc thì các bạn liên hệ mình qua mail này thanhhai3102000@gmail.com 
+Nếu có thắc mắc thì các bạn liên hệ mình qua mail này 181124022217@due.udn.vn
